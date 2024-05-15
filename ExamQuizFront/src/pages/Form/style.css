@@ -1,0 +1,18 @@
+.imageProduct{
+    width: 70px;
+    height: 90px;
+}
+.formPost{
+    margin-left: 500px;
+    button{
+        background-color: blue;
+        border: none;
+        padding: 10px 20px;
+        color: white;
+    }
+}
+
+
+.Searching{
+    margin-left: 500px;
+}

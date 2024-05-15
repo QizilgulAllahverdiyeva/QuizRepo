@@ -1,0 +1,30 @@
+*{
+  text-decoration: none;  
+}
+.header {
+    align-items: center;
+    display: flex;
+    justify-content: space-between;
+    padding: 10px 150px; 
+    background-color: none;
+    div{
+        font-size: 20px;
+        font-weight: 400;
+        letter-spacing: 2px;
+
+    }
+    
+    ul{
+        display: flex;
+        justify-content: space-around;
+        gap:30px;
+        li{
+            font-size: 13px;
+            color: rgba(128, 128, 128, 0.687);
+            list-style: none;
+            
+        }
+       
+    }
+    font-family: "Raleway";
+}
